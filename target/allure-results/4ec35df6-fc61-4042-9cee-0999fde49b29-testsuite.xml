@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1562766389124" stop="1562766421371" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify sidebar validation</name>
+    <title>Verify sidebar validation</title>
+    <test-cases>
+        <test-case start="1562766389148" stop="1562766389150" status="passed">
+            <name>When I tap on skip button</name>
+            <title>When I tap on skip button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Nusrats-MBP.fios-router.home"/>
+                <label name="thread" value="557@Nusrats-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1562766419671" stop="1562766419671" status="passed">
+            <name>And I tap on menu button</name>
+            <title>And I tap on menu button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Nusrats-MBP.fios-router.home"/>
+                <label name="thread" value="557@Nusrats-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1562766421368" stop="1562766421368" status="passed">
+            <name>Then I verify sidebar menu is displayed</name>
+            <title>Then I verify sidebar menu is displayed</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Nusrats-MBP.fios-router.home"/>
+                <label name="thread" value="557@Nusrats-MBP.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify sidebar validation"/>
+        <label name="feature" value="Menu feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
